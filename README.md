@@ -1,6 +1,6 @@
 # 🎭 Persona Mini Homepage
 
-![Persona 3 Reload Logo](https://asia.sega.com/p3r/assets/img/common/logo.png)
+![Persona 3 Reload Logo](https://images.squarespace-cdn.com/content/v1/5e1bc9535920f22934e85ea8/9176f066-e11e-4f9f-a956-5c178528a843/persona-3-reload.jpeg)
 
 ## 📋 프로젝트 소개
 
