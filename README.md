@@ -2,6 +2,9 @@
 
 ![Persona 3 Reload Logo](https://images.squarespace-cdn.com/content/v1/5e1bc9535920f22934e85ea8/9176f066-e11e-4f9f-a956-5c178528a843/persona-3-reload.jpeg)
 
+<img width="1470" alt="image" src="https://github.com/user-attachments/assets/ca2651b2-0714-4154-9f74-9cbe26f1b3c3" />
+
+
 ## 📋 프로젝트 소개
 
 이 프로젝트는 아틀러스의 인기 RPG 시리즈 '페르소나'를 테마로 한 미니홈페이지입니다. 특히 '페르소나 3 리로드'를 중심으로, 시리즈의 캐릭터와 게임 정보를 소개하는 인터랙티브 웹사이트입니다.
